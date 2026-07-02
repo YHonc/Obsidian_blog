@@ -6,8 +6,8 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: zh-CN
+  baseUrl: https://300f6f8c.obsidian-blog-3lm.pages.dev/
   ignorePatterns:
     - private
     - templates
