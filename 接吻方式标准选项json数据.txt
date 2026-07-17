@@ -1,0 +1,758 @@
+{
+  "schemaVersion": 1,
+  "type": "wheel-preset",
+  "id": "kiss-types",
+  "name": "接吻方式",
+  "description": "使用纯文本编辑的自定义选项",
+  "options": [
+    {
+      "id": "wheel-00000001-4a17-4f3d-8b21-000000000001",
+      "label": "舌吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000002-4a17-4f3d-8b21-000000000002",
+      "label": "吸吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000003-4a17-4f3d-8b21-000000000003",
+      "label": "咬吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000004-4a17-4f3d-8b21-000000000004",
+      "label": "舔吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000005-4a17-4f3d-8b21-000000000005",
+      "label": "深吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000006-4a17-4f3d-8b21-000000000006",
+      "label": "拥抱吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000007-4a17-4f3d-8b21-000000000007",
+      "label": "晚安吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000008-4a17-4f3d-8b21-000000000008",
+      "label": "喉结吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000009-4a17-4f3d-8b21-000000000009",
+      "label": "手吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000000a-4a17-4f3d-8b21-00000000000a",
+      "label": "鼻尖吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000000b-4a17-4f3d-8b21-00000000000b",
+      "label": "眼皮吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000000c-4a17-4f3d-8b21-00000000000c",
+      "label": "湿吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000000d-4a17-4f3d-8b21-00000000000d",
+      "label": "单侧吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000000e-4a17-4f3d-8b21-00000000000e",
+      "label": "蝴蝶吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000000f-4a17-4f3d-8b21-00000000000f",
+      "label": "咬唇吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000010-4a17-4f3d-8b21-000000000010",
+      "label": "游走吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000011-4a17-4f3d-8b21-000000000011",
+      "label": "锁骨吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000012-4a17-4f3d-8b21-000000000012",
+      "label": "喂水吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000013-4a17-4f3d-8b21-000000000013",
+      "label": "盲吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000014-4a17-4f3d-8b21-000000000014",
+      "label": "额头吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000015-4a17-4f3d-8b21-000000000015",
+      "label": "吮吸吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000016-4a17-4f3d-8b21-000000000016",
+      "label": "法式深吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000017-4a17-4f3d-8b21-000000000017",
+      "label": "下巴吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000018-4a17-4f3d-8b21-000000000018",
+      "label": "蹭鼻吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000019-4a17-4f3d-8b21-000000000019",
+      "label": "手背吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000001a-4a17-4f3d-8b21-00000000001a",
+      "label": "缠绵吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000001b-4a17-4f3d-8b21-00000000001b",
+      "label": "轻吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000001c-4a17-4f3d-8b21-00000000001c",
+      "label": "耳朵吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000001d-4a17-4f3d-8b21-00000000001d",
+      "label": "干吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000001e-4a17-4f3d-8b21-00000000001e",
+      "label": "掐脖吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000001f-4a17-4f3d-8b21-00000000001f",
+      "label": "掐腰吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000020-4a17-4f3d-8b21-000000000020",
+      "label": "搂腰吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000021-4a17-4f3d-8b21-000000000021",
+      "label": "捧脸吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000022-4a17-4f3d-8b21-000000000022",
+      "label": "踮脚吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000023-4a17-4f3d-8b21-000000000023",
+      "label": "醉鬼吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000024-4a17-4f3d-8b21-000000000024",
+      "label": "飞吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000025-4a17-4f3d-8b21-000000000025",
+      "label": "蜥蜴吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000026-4a17-4f3d-8b21-000000000026",
+      "label": "蜘蛛侠吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000027-4a17-4f3d-8b21-000000000027",
+      "label": "热吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000028-4a17-4f3d-8b21-000000000028",
+      "label": "深喉吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000029-4a17-4f3d-8b21-000000000029",
+      "label": "温柔吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000002a-4a17-4f3d-8b21-00000000002a",
+      "label": "间接性接吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000002b-4a17-4f3d-8b21-00000000002b",
+      "label": "壁咚吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000002c-4a17-4f3d-8b21-00000000002c",
+      "label": "甘泉吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000002d-4a17-4f3d-8b21-00000000002d",
+      "label": "啃咬吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000002e-4a17-4f3d-8b21-00000000002e",
+      "label": "轻啄吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000002f-4a17-4f3d-8b21-00000000002f",
+      "label": "浅尝吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000030-4a17-4f3d-8b21-000000000030",
+      "label": "深吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000031-4a17-4f3d-8b21-000000000031",
+      "label": "缠绵吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000032-4a17-4f3d-8b21-000000000032",
+      "label": "额头吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000033-4a17-4f3d-8b21-000000000033",
+      "label": "眉眼吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000034-4a17-4f3d-8b21-000000000034",
+      "label": "鼻尖吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000035-4a17-4f3d-8b21-000000000035",
+      "label": "脸颊吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000036-4a17-4f3d-8b21-000000000036",
+      "label": "耳垂吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000037-4a17-4f3d-8b21-000000000037",
+      "label": "下颌吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000038-4a17-4f3d-8b21-000000000038",
+      "label": "脖颈吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000039-4a17-4f3d-8b21-000000000039",
+      "label": "锁骨吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000003a-4a17-4f3d-8b21-00000000003a",
+      "label": "咬唇吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000003b-4a17-4f3d-8b21-00000000003b",
+      "label": "含唇吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000003c-4a17-4f3d-8b21-00000000003c",
+      "label": "捧脸吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000003d-4a17-4f3d-8b21-00000000003d",
+      "label": "壁咚吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000003e-4a17-4f3d-8b21-00000000003e",
+      "label": "俯身吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000003f-4a17-4f3d-8b21-00000000003f",
+      "label": "拥抱吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000040-4a17-4f3d-8b21-000000000040",
+      "label": "揽腰吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000041-4a17-4f3d-8b21-000000000041",
+      "label": "托下巴吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000042-4a17-4f3d-8b21-000000000042",
+      "label": "突袭吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000043-4a17-4f3d-8b21-000000000043",
+      "label": "试探吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000044-4a17-4f3d-8b21-000000000044",
+      "label": "早安吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000045-4a17-4f3d-8b21-000000000045",
+      "label": "晚安吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000046-4a17-4f3d-8b21-000000000046",
+      "label": "离别吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000047-4a17-4f3d-8b21-000000000047",
+      "label": "绵长吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000048-4a17-4f3d-8b21-000000000048",
+      "label": "急促吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000049-4a17-4f3d-8b21-000000000049",
+      "label": "蹭脸吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000004a-4a17-4f3d-8b21-00000000004a",
+      "label": "额间相抵吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000004b-4a17-4f3d-8b21-00000000004b",
+      "label": "鼻尖相蹭吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000004c-4a17-4f3d-8b21-00000000004c",
+      "label": "闭眼吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000004d-4a17-4f3d-8b21-00000000004d",
+      "label": "侧头吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000004e-4a17-4f3d-8b21-00000000004e",
+      "label": "仰头吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000004f-4a17-4f3d-8b21-00000000004f",
+      "label": "埋颈吻呢喃吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000050-4a17-4f3d-8b21-000000000050",
+      "label": "吮吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000051-4a17-4f3d-8b21-000000000051",
+      "label": "缱绻吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000052-4a17-4f3d-8b21-000000000052",
+      "label": "落吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000053-4a17-4f3d-8b21-000000000053",
+      "label": "碎吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000054-4a17-4f3d-8b21-000000000054",
+      "label": "慢吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000055-4a17-4f3d-8b21-000000000055",
+      "label": "急吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000056-4a17-4f3d-8b21-000000000056",
+      "label": "慵懒吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000057-4a17-4f3d-8b21-000000000057",
+      "label": "醉吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000058-4a17-4f3d-8b21-000000000058",
+      "label": "哑吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000059-4a17-4f3d-8b21-000000000059",
+      "label": "宠溺吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000005a-4a17-4f3d-8b21-00000000005a",
+      "label": "霸道吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000005b-4a17-4f3d-8b21-00000000005b",
+      "label": "青涩吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000005c-4a17-4f3d-8b21-00000000005c",
+      "label": "温柔吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000005d-4a17-4f3d-8b21-00000000005d",
+      "label": "霸道强吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000005e-4a17-4f3d-8b21-00000000005e",
+      "label": "小心翼翼吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000005f-4a17-4f3d-8b21-00000000005f",
+      "label": "下意识吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000060-4a17-4f3d-8b21-000000000060",
+      "label": "酒后吻",
+      "weight": 1,
+      "color": "#ef8354",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000061-4a17-4f3d-8b21-000000000061",
+      "label": "赌气吻",
+      "weight": 1,
+      "color": "#e76f51",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000062-4a17-4f3d-8b21-000000000062",
+      "label": "和好吻",
+      "weight": 1,
+      "color": "#2a9d8f",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000063-4a17-4f3d-8b21-000000000063",
+      "label": "心动吻",
+      "weight": 1,
+      "color": "#e9c46a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000064-4a17-4f3d-8b21-000000000064",
+      "label": "缱绻缠绵吻",
+      "weight": 1,
+      "color": "#457b9d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000065-4a17-4f3d-8b21-000000000065",
+      "label": "耳边轻吻",
+      "weight": 1,
+      "color": "#f4a261",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000066-4a17-4f3d-8b21-000000000066",
+      "label": "唇角吻",
+      "weight": 1,
+      "color": "#6d597a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000067-4a17-4f3d-8b21-000000000067",
+      "label": "唇角轻咬吻",
+      "weight": 1,
+      "color": "#84a59d",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000068-4a17-4f3d-8b21-000000000068",
+      "label": "唇缝吻",
+      "weight": 1,
+      "color": "#d65d7a",
+      "enabled": true
+    },
+    {
+      "id": "wheel-00000069-4a17-4f3d-8b21-000000000069",
+      "label": "紧贴吻",
+      "weight": 1,
+      "color": "#588157",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000006a-4a17-4f3d-8b21-00000000006a",
+      "label": "呼吸交缠吻",
+      "weight": 1,
+      "color": "#9b5de5",
+      "enabled": true
+    },
+    {
+      "id": "wheel-0000006b-4a17-4f3d-8b21-00000000006b",
+      "label": "后背拥吻",
+      "weight": 1,
+      "color": "#00a6a6",
+      "enabled": true
+    }
+  ]
+}
