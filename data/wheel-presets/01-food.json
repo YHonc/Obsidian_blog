@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "type": "wheel-preset",
+  "id": "food",
+  "name": "今天吃什么",
+  "description": "随机选择今天的餐饮类型",
+  "options": [
+    {
+      "label": "火锅"
+    },
+    {
+      "label": "烧烤"
+    },
+    {
+      "label": "炒菜"
+    },
+    {
+      "label": "面食"
+    },
+    {
+      "label": "麻辣烫"
+    },
+    {
+      "label": "汉堡"
+    }
+  ]
+}

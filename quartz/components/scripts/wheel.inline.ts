@@ -192,170 +192,6 @@ function ft(e) {
     })),
   }
 }
-var gt = [
-  "\u820C\u543B",
-  "\u5438\u543B",
-  "\u54AC\u543B",
-  "\u8214\u543B",
-  "\u6DF1\u543B",
-  "\u62E5\u62B1\u543B",
-  "\u665A\u5B89\u543B",
-  "\u5589\u7ED3\u543B",
-  "\u624B\u543B",
-  "\u9F3B\u5C16\u543B",
-  "\u773C\u76AE\u543B",
-  "\u6E7F\u543B",
-  "\u5355\u4FA7\u543B",
-  "\u8774\u8776\u543B",
-  "\u54AC\u5507\u543B",
-  "\u6E38\u8D70\u543B",
-  "\u9501\u9AA8\u543B",
-  "\u5582\u6C34\u543B",
-  "\u76F2\u543B",
-  "\u989D\u5934\u543B",
-  "\u542E\u5438\u543B",
-  "\u6CD5\u5F0F\u6DF1\u543B",
-  "\u4E0B\u5DF4\u543B",
-  "\u8E6D\u9F3B\u543B",
-  "\u624B\u80CC\u543B",
-  "\u7F20\u7EF5\u543B",
-  "\u8F7B\u543B",
-  "\u8033\u6735\u543B",
-  "\u5E72\u543B",
-  "\u6390\u8116\u543B",
-  "\u6390\u8170\u543B",
-  "\u6402\u8170\u543B",
-  "\u6367\u8138\u543B",
-  "\u8E2E\u811A\u543B",
-  "\u9189\u9B3C\u543B",
-  "\u98DE\u543B",
-  "\u8725\u8734\u543B",
-  "\u8718\u86DB\u4FA0\u543B",
-  "\u70ED\u543B",
-  "\u6DF1\u5589\u543B",
-  "\u6E29\u67D4\u543B",
-  "\u95F4\u63A5\u6027\u63A5\u543B",
-  "\u58C1\u549A\u543B",
-  "\u7518\u6CC9\u543B",
-  "\u5543\u54AC\u543B",
-  "\u8F7B\u5544\u543B",
-  "\u6D45\u5C1D\u543B",
-  "\u6DF1\u543B",
-  "\u7F20\u7EF5\u543B",
-  "\u989D\u5934\u543B",
-  "\u7709\u773C\u543B",
-  "\u9F3B\u5C16\u543B",
-  "\u8138\u988A\u543B",
-  "\u8033\u5782\u543B",
-  "\u4E0B\u988C\u543B",
-  "\u8116\u9888\u543B",
-  "\u9501\u9AA8\u543B",
-  "\u54AC\u5507\u543B",
-  "\u542B\u5507\u543B",
-  "\u6367\u8138\u543B",
-  "\u58C1\u549A\u543B",
-  "\u4FEF\u8EAB\u543B",
-  "\u62E5\u62B1\u543B",
-  "\u63FD\u8170\u543B",
-  "\u6258\u4E0B\u5DF4\u543B",
-  "\u7A81\u88AD\u543B",
-  "\u8BD5\u63A2\u543B",
-  "\u65E9\u5B89\u543B",
-  "\u665A\u5B89\u543B",
-  "\u79BB\u522B\u543B",
-  "\u7EF5\u957F\u543B",
-  "\u6025\u4FC3\u543B",
-  "\u8E6D\u8138\u543B",
-  "\u989D\u95F4\u76F8\u62B5\u543B",
-  "\u9F3B\u5C16\u76F8\u8E6D\u543B",
-  "\u95ED\u773C\u543B",
-  "\u4FA7\u5934\u543B",
-  "\u4EF0\u5934\u543B",
-  "\u57CB\u9888\u543B\u5462\u5583\u543B",
-  "\u542E\u543B",
-  "\u7F31\u7EFB\u543B",
-  "\u843D\u543B",
-  "\u788E\u543B",
-  "\u6162\u543B",
-  "\u6025\u543B",
-  "\u6175\u61D2\u543B",
-  "\u9189\u543B",
-  "\u54D1\u543B",
-  "\u5BA0\u6EBA\u543B",
-  "\u9738\u9053\u543B",
-  "\u9752\u6DA9\u543B",
-  "\u6E29\u67D4\u543B",
-  "\u9738\u9053\u5F3A\u543B",
-  "\u5C0F\u5FC3\u7FFC\u7FFC\u543B",
-  "\u4E0B\u610F\u8BC6\u543B",
-  "\u9152\u540E\u543B",
-  "\u8D4C\u6C14\u543B",
-  "\u548C\u597D\u543B",
-  "\u5FC3\u52A8\u543B",
-  "\u7F31\u7EFB\u7F20\u7EF5\u543B",
-  "\u8033\u8FB9\u8F7B\u543B",
-  "\u5507\u89D2\u543B",
-  "\u5507\u89D2\u8F7B\u54AC\u543B",
-  "\u5507\u7F1D\u543B",
-  "\u7D27\u8D34\u543B",
-  "\u547C\u5438\u4EA4\u7F20\u543B",
-  "\u540E\u80CC\u62E5\u543B",
-]
-var wt = [
-  "\u54AC\u8033\u5782",
-  "\u8214\u8033\u5782",
-  "\u634F\u8138",
-  "\u543B\u624B\u80CC",
-  "\u543B\u624B\u6307",
-  "\u543B\u75E3",
-  "\u543B\u624B\u5FC3",
-  "\u4EB2\u8033\u5782",
-  "\u543B\u773C\u89D2",
-  "\u626F\u8896\u53E3",
-  "\u543B\u9F3B\u5C16",
-  "\u543B\u6CEA\u75E3",
-  "\u62B9\u773C\u6CEA",
-  "\u543B\u5634\u89D2",
-  "\u57CB\u9888\u7A9D",
-  "\u8E6D\u9888\u80A9",
-  "\u57CB\u80A9\u62B1",
-  "\u5171\u7528\u8033\u673A",
-  "\u6367\u8138\u4EB2",
-  "\u634F\u8033\u5782",
-  "\u52FE\u4E0B\u5DF4",
-  "\u62AC\u4E0B\u5DF4",
-  "\u522E\u9F3B\u5C16",
-  "\u52FE\u624B\u6307",
-  "\u543B\u524D\u989D",
-  "\u73A9\u5934\u53D1",
-  "\u73A9\u53D1\u5C3E",
-  "\u5439\u8033\u6735",
-  "\u8E6D\u8138\u988A",
-  "\u8E6D\u9888\u7A9D",
-  "\u54AC\u8033\u6735",
-  "\u9888\u4FA7\u543B",
-  "\u9501\u9AA8\u543B",
-  "\u773C\u5C3E\u543B",
-  "\u63FD\u8170\u62B1",
-  "\u4EB2\u5C0F\u8179",
-  "\u78B0\u9F3B\u5C16",
-  "\u6258\u5934\u4EB2",
-  "\u58C1\u549A",
-  "\u5708\u6000",
-  "\u5077\u4EB2",
-  "\u8FFD\u543B",
-  "\u6342\u773C",
-  "\u540E\u62B1",
-  "\u8DE8\u817F\u5750",
-  "\u63A5\u543B",
-  "\u6572\u989D\u5934",
-  "\u65E0\u610F\u8BC6\u6492\u5A07",
-  "\u8170\u543B",
-  "\u80A9\u5934\u543B",
-  "\u5341\u6307\u76F8\u6263",
-  "\u5BF9\u89C6",
-  "\u7275\u624B\u8155",
-]
 var yt = "food",
   Et = [
     "#e76f51",
@@ -374,63 +210,20 @@ var yt = "food",
 function A(e) {
   return Et[e % Et.length]
 }
-function C(e, r) {
-  return r.map((s, c) => ({ id: `${e}-${c + 1}`, label: s, weight: 1, color: A(c), enabled: !0 }))
+var ye = []
+function loadEmbeddedWheelPresets(e) {
+  let r = e.querySelector("[data-wheel-presets]")
+  if (!(r instanceof HTMLScriptElement)) {
+    throw new Error("页面缺少编译后的转盘预设数据")
+  }
+
+  let s = JSON.parse(r.textContent ?? "")
+  if (!Array.isArray(s) || s.length === 0) {
+    throw new Error("编译后的转盘预设数据为空")
+  }
+
+  return s
 }
-var ye = [
-  {
-    id: "food",
-    name: "\u4ECA\u5929\u5403\u4EC0\u4E48",
-    description: "\u968F\u673A\u9009\u62E9\u4ECA\u5929\u7684\u9910\u996E\u7C7B\u578B",
-    options: C("food", [
-      "\u706B\u9505",
-      "\u70E7\u70E4",
-      "\u7092\u83DC",
-      "\u9762\u98DF",
-      "\u9EBB\u8FA3\u70EB",
-      "\u6C49\u5821",
-    ]),
-  },
-  {
-    id: "weekend",
-    name: "\u5468\u672B\u505A\u4EC0\u4E48",
-    description: "\u4E3A\u5468\u672B\u5B89\u6392\u4E00\u70B9\u968F\u673A\u7075\u611F",
-    options: C("weekend", [
-      "\u770B\u7535\u5F71",
-      "\u722C\u5C71",
-      "\u901B\u8857",
-      "\u770B\u4E66",
-      "\u6253\u6E38\u620F",
-      "\u4F11\u606F",
-    ]),
-  },
-  {
-    id: "task",
-    name: "\u968F\u673A\u4EFB\u52A1",
-    description:
-      "\u4ECE\u5E38\u89C1\u4EFB\u52A1\u4E2D\u968F\u673A\u6311\u9009\u4E0B\u4E00\u4EF6\u4E8B",
-    options: C("task", [
-      "\u6574\u7406\u7B14\u8BB0",
-      "\u5199\u4EE3\u7801",
-      "\u590D\u4E60\u8BFE\u7A0B",
-      "\u9605\u8BFB\u6587\u6863",
-      "\u8FD0\u52A8",
-      "\u4F11\u606F",
-    ]),
-  },
-  {
-    id: "kiss-hundred",
-    name: "\u543B\u7684\u4E00\u767E\u79CD",
-    description: "\u968F\u673A\u9009\u62E9\u4E00\u79CD\u4EB2\u543B\u65B9\u5F0F",
-    options: C("kiss-hundred", gt),
-  },
-  {
-    id: "love-hundred",
-    name: "\u7231\u7684\u4E00\u767E\u79CD",
-    description: "\u968F\u673A\u9009\u62E9\u4E00\u79CD\u4EB2\u5BC6\u4E92\u52A8",
-    options: C("love-hundred", wt),
-  },
-]
 function q(e) {
   return ye.find((r) => r.id === e)
 }
@@ -558,6 +351,19 @@ function gn() {
 function Lt() {
   let e = document.querySelector("[data-wheel-app]")
   if (!e || e.dataset.initialized === "true") return
+
+  try {
+    ye = loadEmbeddedWheelPresets(e)
+  } catch (r) {
+    let s = e.querySelector("[data-wheel-message]")
+    if (s instanceof HTMLElement) {
+      s.textContent = `转盘初始化失败：${H(r)}`
+      s.dataset.kind = "error"
+    }
+    console.error(r)
+    return
+  }
+
   e.dataset.initialized = "true"
   let r = e.querySelector("[data-wheel-stage]"),
     s = e.querySelector("[data-wheel-canvas]"),

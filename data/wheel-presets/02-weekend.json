@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "type": "wheel-preset",
+  "id": "weekend",
+  "name": "周末做什么",
+  "description": "为周末安排一点随机灵感",
+  "options": [
+    {
+      "label": "看电影"
+    },
+    {
+      "label": "爬山"
+    },
+    {
+      "label": "逛街"
+    },
+    {
+      "label": "看书"
+    },
+    {
+      "label": "打游戏"
+    },
+    {
+      "label": "休息"
+    }
+  ]
+}

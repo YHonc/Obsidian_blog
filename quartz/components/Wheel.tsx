@@ -4,9 +4,23 @@ import { WHEEL_PRESETS } from "./scripts/wheel-presets"
 import wheelScript from "./scripts/wheel.inline"
 import wheelStyle from "./styles/wheel.scss"
 
+function serializeWheelPresets(): string {
+  return JSON.stringify(WHEEL_PRESETS)
+    .replaceAll("<", "\\u003c")
+    .replaceAll("\u2028", "\\u2028")
+    .replaceAll("\u2029", "\\u2029")
+}
+
 const Wheel: QuartzComponent = () => {
+  const serializedPresets = serializeWheelPresets()
+
   return (
     <section class="wheel-app" data-wheel-app aria-labelledby="wheel-app-title">
+      <script
+        type="application/json"
+        data-wheel-presets=""
+        dangerouslySetInnerHTML={{ __html: serializedPresets }}
+      />
       <h2 id="wheel-app-title" class="wheel-app__sr-only">
         随机转盘操作区
       </h2>

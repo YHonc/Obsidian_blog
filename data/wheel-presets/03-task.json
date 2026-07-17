@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "type": "wheel-preset",
+  "id": "task",
+  "name": "随机任务",
+  "description": "从常见任务中随机挑选下一件事",
+  "options": [
+    {
+      "label": "整理笔记"
+    },
+    {
+      "label": "写代码"
+    },
+    {
+      "label": "复习课程"
+    },
+    {
+      "label": "阅读文档"
+    },
+    {
+      "label": "运动"
+    },
+    {
+      "label": "休息"
+    }
+  ]
+}
